@@ -1,0 +1,89 @@
+@title Greek Mythology game that Raima suggested
+
+@start Beginning
+
+
+[[]]:
+@clear
+@set brotherName = Alfred
+@set homeTown = Bethens
+
+<!-Part One->
+[[Beginning]]:
+You wake up, lying against a tree. You begin to stretch, working out the exhaustion from your limbs. You've walked for three days straight, so this rest was very overdue.
+
+1. [Go back to sleep]
+2. [Look around you]
+
+[Look around you]:
+You observe your surroundings. To your right, your brother, {brotherName}, is keeping watch. Though, you had little faith in him protecting you. The both of you were in a forest, surrounded by trees. Thankfully, it didn't seem like anyone has been here since you two arrived at this point.
+
+[Go back to sleep]:
+You begin to close your eyes again, drifting off to sleep. Your brother chastises you, "Don't fall asleep again, brother. You've had a good enough rest. We should start going."
+
+[@last]:
+[[Get up]]
+
+<!--Part Two->
+[[Get up]]:
+You stand up, and start towards your brother. He gestures for you to wait. "Hold on, let me check you up again." You sigh. He already did that before you slept, but you conceed regardless. He looks you over, before concluding no wounds or bruises were found. "I think we should start walking again. The city should be nearby now."
+
+1. [Try to remember what happened]
+2. [Ask {brotherName} where you're going]
+3. [Threaten {brotherName}]
+
+[Try to remember what happened]:
+You try to jog your memory as to how you got here. You recall running away from your hometown, {homeTown}. It's starting to come back to you, but [you need a bit more time](Think some more).
+
+[Think some more]:
+You think a bit more about what happened. You were running away, fleeing the entire kingdom...because the king was killed. You still don't know the details, but you heard rumors that is was an extremist group who were greatly dissatified. You were only able to escape with your brother, as your parents were killed alongside the rest of the kingdom. You've remembered more, but [you need to think harder](Think harder).
+
+[Think harder]:
+You were only able to rescue your brother when they came in. You held your own, carrying your brother out on your shoulders. It was exhausting, but you had no choice. You promised your parents that you would protect him with your life. That sounds like all you need to recall for now. You should continue your mission.
+
+
+[Ask Alfred where you're going]:
+Your brother explains. "We're headed to the neighboring kingdom, seeking refuge. We don't need anything major; just a place to hide away from those killers, got it?" He spoke to you, as if you were a child. It irritated you, but you bit back any comment.<br>
+[[Start to lead the way]]
+
+[Threaten Alfred]:
+You raise your spear and aim it at your brother. He backs away, terrified. "H-hey, chill, would you? You promised that you wouldn't joke like that anymore!" You cursed under your breath, bringing your spear back down. Maybe next time.
+
+<!-Part Three->
+[[Start to lead the way]]:
+You and your brother head back onto the trail. You keep a keen eye out, making sure nobody rushes the two of you. After some time, you come across someone, lying on the side of the road. They don't appear to be conscious, and there's a faint red stain on their tunic.
+1. [Talk to {brotherName}]
+2. [Look at the person]
+3. [[Help the person]]
+4. [[Walk past the person]]
+5. [[Kill the person]]
+
+[Talk to Alfred]:
+Your brother shrugs. "Could be a trap, could be a lost cause. Either way, we shouldn't spend any time with 'em. They'll die anyway."
+
+[Look at the person]:
+You take a closer look at the wounded individual. Their breathing is shallow, and their injury is a deep cut to the abdomen. Their eyes have glazed over; they don't take any notice of you. Must have been an ambush.
+
+[[Help the person]]:
+You get close to the person, before slinging them over your shoulder. Your brother shakes his head. "You're wasting your time, brother. He'll die soon anyway."<br>
+["Not if you save him"](Heal person)<br>
+["Fine then"](Drop person)
+[[Heal person]]:
+Your brother rolls his eyes. "Fine, but only because you said so. Keep guard while I treat him." You not, pulling out your spear while {brotherName} crouches down by the person. He keeps muttering nonsense under his breath, but he eventually finishes bandaging the injury. Luckily, no enemies showed up. He gets up again, "There, happy? All patched up, but not waking up anytime soon. Let's go, already!" You nod, the both of you continuing on your way to the new kingdom.<br>
+[[Continue]]
+[[Drop person]]:
+You put the person down again. If your brother says they're a lost cause, it must be true. The both of you continue on your way to the new kingdom.<br>
+[[Continue]]
+
+[[Walk past the person]]:
+You disregard the wounded person, walking past with your brother. If he's lying there, he may not be able to wake up, even if you do help him. "Good choice, brother," _ confirms. "We would have been wasting time with him." With that, the both of you continue on your way to the new kingdom.<br>
+[[Continue]]
+
+[[Kill the person]]:
+You approach the person, raising your spear. They don't flinch as you slice their neck, ensuring a quick death. "I suppose," your brother says, "it is better for him to not suffer." You and your brother continue on your way to the new kingdom.<br>
+[[Continue]]
+ <!-Part Four->
+[[Continue]]:
+End of story so far.
+Good job!<br>
+Stay tuned for more updates!
