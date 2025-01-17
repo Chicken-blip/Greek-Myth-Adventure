@@ -630,7 +630,7 @@ squiffy.story.id = '5badec443d';
 squiffy.story.sections = {
 	'': {
 		'clear': true,
-		'text': "<p>&lt;!-Part One-&gt;</p>",
+		'text': "",
 		'attributes': ["brotherName = Alfred","homeTown = Bethens"],
 		'passages': {
 		},
@@ -646,7 +646,7 @@ squiffy.story.sections = {
 				'text': "<p>You begin to close your eyes again, drifting off to sleep. Your brother chastises you, &quot;Don&#39;t fall asleep again, brother. You&#39;ve had a good enough rest. We should start going.&quot;</p>",
 			},
 			'@last': {
-				'text': "<p><a class=\"squiffy-link link-section\" data-section=\"Get up\" role=\"link\" tabindex=\"0\">Get up</a></p>\n<p>&lt;!--Part Two-&gt;</p>",
+				'text': "<p><a class=\"squiffy-link link-section\" data-section=\"Get up\" role=\"link\" tabindex=\"0\">Get up</a></p>",
 			},
 		},
 	},
@@ -666,7 +666,7 @@ squiffy.story.sections = {
 				'text': "<p>Your brother explains. &quot;We&#39;re headed to the neighboring kingdom, seeking refuge. We don&#39;t need anything major; just a place to hide away from those killers, got it?&quot; He spoke to you, as if you were a child. It irritated you, but you bit back any comment.<br>\n<a class=\"squiffy-link link-section\" data-section=\"Start to lead the way\" role=\"link\" tabindex=\"0\">Start to lead the way</a></p>",
 			},
 			'Threaten Alfred': {
-				'text': "<p>You raise your spear and aim it at your brother. He backs away, terrified. &quot;H-hey, chill, would you? You promised that you wouldn&#39;t joke like that anymore!&quot; You cursed under your breath, bringing your spear back down. Maybe next time.</p>\n<p>&lt;!-Part Three-&gt;</p>",
+				'text': "<p>You raise your spear and aim it at your brother. He backs away, terrified. &quot;H-hey, chill, would you? You promised that you wouldn&#39;t joke like that anymore!&quot; You cursed under your breath, bringing your spear back down. Maybe next time.</p>",
 			},
 		},
 	},
@@ -702,7 +702,7 @@ squiffy.story.sections = {
 		},
 	},
 	'Kill the person': {
-		'text': "<p>You approach the person, raising your spear. They don&#39;t flinch as you slice their neck, ensuring a quick death. &quot;I suppose,&quot; your brother says, &quot;it is better for him to not suffer.&quot; You and your brother continue on your way to the new kingdom.<br>\n<a class=\"squiffy-link link-section\" data-section=\"Continue\" role=\"link\" tabindex=\"0\">Continue</a>\n &lt;!-Part Four-&gt;</p>",
+		'text': "<p>You approach the person, raising your spear. They don&#39;t flinch as you slice their neck, ensuring a quick death. &quot;I suppose,&quot; your brother says, &quot;it is better for him to not suffer.&quot; You and your brother continue on your way to the new kingdom.<br>\n<a class=\"squiffy-link link-section\" data-section=\"Continue\" role=\"link\" tabindex=\"0\">Continue</a></p>",
 		'passages': {
 		},
 	},
